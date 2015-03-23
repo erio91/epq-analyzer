@@ -2,13 +2,13 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package epqnemak;
+package epq;
 
 /**
  *
  * @author eduardoriojas
  */
-public class EPQNemak {
+public class EPQ {
 
     /**
      * @param args the command line arguments
