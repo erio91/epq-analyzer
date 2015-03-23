@@ -1,4 +1,4 @@
-package epqnemak;
+package epq;
 
 
 import java.awt.*;
